@@ -1,0 +1,16 @@
+ Volume in drive C has no label.
+ Volume Serial Number is B431-2643
+
+ Directory of C:\Users\Bhawna Prajapati\Desktop\JavaProject1
+
+11/10/2017  12:27 AM    <DIR>          .
+11/10/2017  12:27 AM    <DIR>          ..
+11/02/2017  08:43 PM               673 Test.class
+10/31/2017  10:29 PM               162 Test.java
+11/09/2017  10:59 PM               471 test1.txt
+11/10/2017  12:27 AM                 0 test6.txt
+11/09/2017  11:49 PM               685 testjenk.class
+11/09/2017  11:36 PM               170 testjenk.java
+11/09/2017  11:32 PM                 0 testjenk.txt
+               7 File(s)          2,161 bytes
+               2 Dir(s)   8,187,822,080 bytes free
